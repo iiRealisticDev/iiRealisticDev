@@ -4,9 +4,14 @@ I'm Realistic, a multi-field developer and IT manager. I'm a Senior Developer at
 
 ## Languages I Know
 Accepting Commissions Key:
+
 ✅ - I can be hired to make projects in this language
-⚠️ - In certain circumstances, I can be hired to make projects in this language, but it is no guaranteed.
+
+⚠️ - In certain circumstances, I can be hired to make projects in this language, but it is not guaranteed.
+
 ❌ - I cannot be hired to make projects in this language
+
+
 
 | Language 	| Skill Level 	| Year Began 	| Accepting Commissions 	|
 |---	|---	|---	|---	|
